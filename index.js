@@ -13,7 +13,7 @@ function output(input) {
   let product;
 
   // Regex remove non word/space chars
-  // Trim trailing whitespce
+  // bbb Trim trailing whitespce
   // Remove digits - not sure if this is best
   // But solves problem of entering something like 'hi1'
 
